@@ -1,4 +1,4 @@
-import javafx.application.Application;
+public import javafx.application.Application;
 import javafx.beans.binding.Bindings;
 import javafx.beans.property.*;
 import javafx.geometry.Insets;
@@ -133,4 +133,6 @@ public class SimpleCalculator extends Application {
             expression.set("Error");
         }
     }
+} {
+    
 }
