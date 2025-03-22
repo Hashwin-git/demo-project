@@ -87,5 +87,5 @@ button:hover {
 
 /* Button Click Effect */
 button:active {
-    transform: scale(0.95);
+    transform: scale(0.111);
 }
